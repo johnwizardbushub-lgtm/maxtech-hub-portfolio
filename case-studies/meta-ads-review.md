@@ -23,4 +23,4 @@ The two-lead ad-set result is a small sample. It does not establish a repeatable
 
 **Source:** TitlePro_Meta_Full_Performance_Audit_Updated_3_Leads.xlsx. Only aggregate figures are reproduced; private lead records are excluded.
 
-[Read the anonymised website case study](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/meta-review.html).
+[Read the anonymised website case study](https://maxtechub.name.ng/portfolio/meta-review.html).

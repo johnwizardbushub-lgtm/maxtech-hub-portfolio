@@ -23,4 +23,4 @@ A website form test failed during the review. Live conversion tracking still nee
 
 **Source:** TitlePro_Google_Ads_Performance_Report_15_Sep_2026.pdf.
 
-[Read the anonymised website case study](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/google-review.html).
+[Read the anonymised website case study](https://maxtechub.name.ng/portfolio/google-review.html).

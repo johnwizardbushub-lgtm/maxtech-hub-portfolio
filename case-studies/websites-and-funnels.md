@@ -15,8 +15,8 @@ Organise the page around the visitor’s next action: understand the offer, revi
 
 ## Additional visual evidence
 
-- [Real estate website samples](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/?project=real-estate)
-- [Coaching sales journey samples](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/?project=remarriage-roadmap)
-- [Programme and resource page](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/?project=toolkit)
+- [Real estate website samples](https://maxtechub.name.ng/portfolio/?project=real-estate)
+- [Coaching sales journey samples](https://maxtechub.name.ng/portfolio/?project=remarriage-roadmap)
+- [Programme and resource page](https://maxtechub.name.ng/portfolio/?project=toolkit)
 
 These samples demonstrate page design and journey structure. Verified conversion uplift, revenue attribution and live integration testing are not provided by the screenshots.

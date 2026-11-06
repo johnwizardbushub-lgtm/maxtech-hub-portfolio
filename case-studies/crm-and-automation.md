@@ -16,9 +16,9 @@ Connect the enquiry to a useful next step: place the lead in the appropriate sta
 
 ## Evidence
 
-- [Lead and appointment workflows](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/?project=automation)
-- [CRM and marketing operations](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/?project=crm)
-- [Reputation management](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/?project=reputation)
-- [Branded CRM interfaces](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/?project=whitelabel)
+- [Lead and appointment workflows](https://maxtechub.name.ng/portfolio/?project=automation)
+- [CRM and marketing operations](https://maxtechub.name.ng/portfolio/?project=crm)
+- [Reputation management](https://maxtechub.name.ng/portfolio/?project=reputation)
+- [Branded CRM interfaces](https://maxtechub.name.ng/portfolio/?project=whitelabel)
 
 Screenshots demonstrate the available configuration and interface samples. They do not independently establish delivery rates, time saved, revenue generated or a currently running client system.

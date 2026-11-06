@@ -22,11 +22,11 @@ Start with the case studies below to review the project brief, my contribution, 
 
 [![GoHighLevel appointment workflow](assets/appointment-workflow.webp)](case-studies/crm-and-automation.md)
 
-## Additional portfolio preview
+## Explore the portfolio website
 
-[Explore the visual portfolio](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/) · [Plan a project](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/services/)
+[Explore the visual portfolio](https://maxtechub.name.ng/portfolio/) · [Plan a project](https://maxtechub.name.ng/services/)
 
-The portfolio website currently requires authorised access. The custom domain is awaiting registrar/DNS resolution; it is not presented as a working public URL here.
+The portfolio is available on the Maxtech Hub website. You can also [watch recorded project walkthroughs](https://maxtechub.name.ng/portfolio/#watch) or [book a free consultation](https://calendar.app.google/csjf59513gg1Fxji8).
 
 ## Contact
 

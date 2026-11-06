@@ -10,6 +10,6 @@ Use a clear message, coordinated brand imagery and readable captions to make the
 
 ## Evidence
 
-[Watch the AI brand and product video samples](https://maxtech-hub-connect.derickdigitalz24.chatgpt.site/portfolio/?project=ai-videos).
+[Watch the AI brand and product video samples](https://maxtechub.name.ng/portfolio/?project=ai-videos).
 
 These are AI-assisted creative samples. They are not presented as customer testimonials, endorsements or proof of advertising performance.
