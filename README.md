@@ -1,10 +1,10 @@
 <img src="assets/maxtech-logo.png" alt="Maxtech Hub" width="100">
 
-# Maxtech Hub — Project Portfolio
+# Maxtech Hub Project Portfolio
 
 Selected website, CRM, automation, video and advertising work by Babalola John.
 
-Start with the case studies below to review the project brief, my contribution, original work samples and available evidence. Website and CRM screenshots are presented as implementation samples. The separate project-brief-builder repository contains an original code example.
+Start with the case studies below to review the project brief, my contribution, original work samples and available evidence. Website and CRM screenshots are presented as implementation samples. [Project Brief Builder](https://github.com/johnwizardbushub-lgtm/project-brief-builder) contains an original HTML, CSS and JavaScript example.
 
 | Project | What to review |
 | --- | --- |
@@ -12,7 +12,7 @@ Start with the case studies below to review the project brief, my contribution, 
 | [Potential State](case-studies/potential-state.md) | Coaching and therapy website implementation and migration scope |
 | [Website and coaching journeys](case-studies/websites-and-funnels.md) | Page layouts, enquiries and booking journeys |
 | [GoHighLevel systems](case-studies/crm-and-automation.md) | Pipelines, reminders, lead routing and review workflows |
-| [AI video content](case-studies/ai-video.md) | Captioned brand and product samples |
+| [Brand and product videos](case-studies/ai-video.md) | Captioned brand and product samples |
 | [Meta Ads review](case-studies/meta-ads-review.md) | Spend, lead reconciliation and small-sample limits |
 | [Google Ads review](case-studies/google-ads-review.md) | Search campaign review and tracking limitations |
 
